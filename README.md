@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shobh Raj
 =================================================================================================================================
 
-Likes Web Dev, Electronics. Interested in Machine Learning and Dev Ops.
+Likes to build, contribute, and experiment with signals and software.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamshobhraj/iamshobhraj/output/github-contribution-grid-snake-dark.svg">
